@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Evita el destello blanco al abrir la app en modo oscuro -->
+    <style name="Theme.TeqGastos" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/fondo_ventana</item>
+    </style>
+</resources>
